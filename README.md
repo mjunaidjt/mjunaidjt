@@ -1,42 +1,94 @@
-# Hi, I'm Muhammad Junaid Tariq
+<p align="center">
+  <img src="./profile-banner.svg" width="100%" alt="Muhammad Junaid Tariq, Software Engineer. Web, Mobile, Backend and Cloud. Founder and CEO at Byte Craftre." />
+</p>
 
-Software engineer and Founder & CEO at **[Byte Craftre](https://bytecraftre.com)**. I work across web, mobile, backend systems, databases, and application delivery, with experience in connected products and AI-enabled application interfaces.
+<p align="center">
+  <a href="https://bytecraftre.com"><img src="https://img.shields.io/badge/Byte_Craftre-Website-d5ed47?style=for-the-badge&amp;labelColor=242c25&amp;color=d5ed47" alt="Byte Craftre website" /></a>
+  <a href="https://www.linkedin.com/in/immjunaidtariq/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d5ed47?style=for-the-badge&amp;labelColor=242c25&amp;color=d5ed47" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:mjunaidt.engr@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-d5ed47?style=for-the-badge&amp;labelColor=242c25&amp;color=d5ed47" alt="Email Muhammad Junaid Tariq" /></a>
+</p>
 
-[Byte Craftre on GitHub](https://github.com/bytecraftre) · [Website](https://bytecraftre.com) · [LinkedIn](https://www.linkedin.com/in/immjunaidtariq/) · [Email](mailto:mjunaidt.engr@gmail.com)
+<p align="center"><b>Building across the application lifecycle.</b><br />
+Web and mobile experiences, backend systems, databases, and application delivery.</p>
 
-## Engineering focus
+<br />
 
-- Building web and mobile applications, integrating APIs, and contributing to application architecture.
-- Developing backend functionality, database logic, and integrations that support business workflows.
-- Supporting cloud infrastructure, deployments, development tooling, and ongoing application delivery.
+## About
 
-## Selected professional contributions
+I'm a software engineer and Founder & CEO at **[Byte Craftre](https://github.com/bytecraftre)**, our software engineering and product studio. My work spans application architecture, frontend and backend development, API integration, cloud infrastructure, and deployments.
 
-The following work was delivered as part of engineering teams at **Data Function Inc.** These summaries describe my contributions to company and client applications.
+I have contributed to financial research, industrial monitoring, business operations, and legal research applications, working alongside engineering teams to turn requirements into usable software.
 
-### [NeuraCap](https://neuracap.ai)
-Developed Next.js, React, and TypeScript interfaces for company valuations, peer comparisons, M&A research, and financial reports. Contributed to API and AI assistant integrations, key application architecture decisions, cloud infrastructure, and deployments.
+<br />
 
-### [Force-V](https://datafunction.ca/work/force-v)
-Contributed to the React web application and React Native/Expo mobile application, both using JavaScript. Built monitoring and reporting interfaces and contributed to SQL data ingestion, EMQX integration, testing, and application delivery.
+## Selected work
 
-### [StoneCloud | Marble Industry Software](https://stonecloud.jinnahtech.com)
-Developed React and JavaScript application interfaces and contributed to inventory business logic and MySQL database functionality. Collaborated on backend integration, deployment, and ongoing application support.
+<sub>PROFESSIONAL CONTRIBUTIONS · DATA FUNCTION INC.</sub>
 
-### [Case Polaris](https://casepolaris.com)
-Contributed to the Next.js web application and a React Native/Expo mobile application using TypeScript. Worked on legal research interfaces, document and chat workflows, API integration, and application delivery. Mobile development is ongoing.
+The following are company and client applications I contributed to as part of engineering teams.
 
-## Technologies
+### 01 / [NeuraCap](https://neuracap.ai)
+**Financial research & valuation**
 
-**Languages:** JavaScript, TypeScript, Python, SQL  
-**Applications:** React, Next.js, React Native, Expo, Django, REST APIs  
-**Data and delivery:** MySQL, AWS, Docker, Git, GitHub Actions, EMQX, RabbitMQ
+Developed interfaces for valuations, peer comparisons, M&A research, and financial reports. Contributed to application architecture decisions, API and AI assistant integrations, cloud infrastructure, and deployments.
 
-My earlier academic work also includes an IoT diagnostic-system project using Java, Spring Boot, React, and Python/Flask.
+`Next.js` `React` `TypeScript` `API Integration` `AWS`
 
-## Byte Craftre
+---
 
-I build software through **[Byte Craftre](https://github.com/bytecraftre)**, our software engineering and product studio. Visit [bytecraftre.com](https://bytecraftre.com) to learn more.
+### 02 / [Force-V](https://datafunction.ca/work/force-v)
+**Industrial monitoring · Web & mobile**
 
-<sub>Based in Pakistan.</sub>
+Built monitoring and reporting interfaces across web and mobile. Contributed to SQL data ingestion, EMQX integration, testing, and application delivery. Both codebases use JavaScript.
 
+`React` `React Native` `Expo` `JavaScript` `SQL` `EMQX`
+
+---
+
+### 03 / [StoneCloud](https://stonecloud.jinnahtech.com)
+**Marble industry software**
+
+Developed application interfaces and contributed to inventory business logic and MySQL database functionality. Collaborated on backend integration, deployments, and ongoing application support.
+
+`React` `JavaScript` `MySQL` `Business Logic` `Deployment`
+
+---
+
+### 04 / [Case Polaris](https://casepolaris.com)
+**Legal research · Web & mobile**
+
+Contributed to the Next.js web application and React Native/Expo mobile application using TypeScript. Worked on research interfaces, document and chat workflows, API integration, and delivery. Mobile development is ongoing.
+
+`Next.js` `React Native` `Expo` `TypeScript` `API Integration`
+
+<br />
+
+## Engineering toolkit
+
+**Languages**  
+`JavaScript` `TypeScript` `Python` `SQL`
+
+**Web, mobile & backend**  
+`React` `Next.js` `React Native` `Expo` `Django` `REST APIs`
+
+**Data, infrastructure & delivery**  
+`MySQL` `AWS` `Docker` `Git` `GitHub Actions` `EMQX` `RabbitMQ`
+
+<details>
+<summary><b>Earlier engineering work</b></summary>
+<br />
+
+My university IoT diagnostic-system project combined Java/Spring Boot APIs, a React interface, and Python/Flask device integration. It was an academic team project.
+
+</details>
+
+<br />
+
+---
+
+<p align="center"><b>Let's build useful software.</b><br />
+<a href="https://bytecraftre.com">Byte Craftre</a> &nbsp; / &nbsp;
+<a href="https://github.com/bytecraftre">Studio on GitHub</a> &nbsp; / &nbsp;
+<a href="https://www.linkedin.com/in/immjunaidtariq/">LinkedIn</a></p>
+
+<p align="center"><sub>Based in Pakistan · Web, mobile, backend and cloud</sub></p>
