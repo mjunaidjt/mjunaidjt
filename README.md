@@ -9,58 +9,11 @@
 
 <p align="center"><a href="#professional-summary">Summary</a> &nbsp; / &nbsp; <a href="#professional-experience">Experience</a> &nbsp; / &nbsp; <a href="#selected-projects-at-data-function">Projects</a> &nbsp; / &nbsp; <a href="#technical-skills">Skills</a> &nbsp; / &nbsp; <a href="#education--academic-work">Education</a> &nbsp; / &nbsp; <a href="#github-activity">GitHub stats</a></p>
 
-<br />
-
 ## Professional summary
 
 **Software Engineer | Web, Mobile & Backend Systems**
 
-I develop applications across frontend and backend systems, database functionality, API integration, and cloud deployment. My professional experience spans financial research, renewable energy monitoring, legal technology, and industry-specific business software.
-
-I work with engineering teams and stakeholders through requirements, application design, implementation, testing, and delivery. My contributions include application architecture decisions, React and Next.js web applications, React Native mobile applications, Django/REST API functionality, SQL databases, and deployment support.
-
-<br />
-
-## Technical skills
-
-### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" width="44" height="44" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" width="44" height="44" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" title="Python" width="44" height="44" />
-</p>
-JavaScript · TypeScript · Python · SQL
-
-### Frontend & mobile
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" title="React" width="44" height="44" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="Next.js" title="Next.js" width="44" height="44" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-20232a?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" />
-</p>
-React · Next.js · React Native · Expo
-
-### Backend, databases & messaging
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django" title="Django" width="44" height="44" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL" width="44" height="44" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RabbitMQ-Dark.svg" alt="RabbitMQ" title="RabbitMQ" width="44" height="44" />
-</p>
-Django · REST APIs · SQL/MySQL · RabbitMQ · EMQX
-
-### Cloud & engineering tools
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" title="AWS" width="44" height="44" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" title="Docker" width="44" height="44" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="44" height="44" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub" width="44" height="44" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" alt="GitHub Actions" title="GitHub Actions" width="44" height="44" />
-</p>
-AWS · Docker · Git · GitHub Actions · Deployment · Server management
-
-<br />
+I build web and mobile applications and contribute to backend services, database logic, application architecture, and cloud delivery. At Data Function Inc., I have worked on financial research, renewable energy monitoring, legal technology, and business operations software alongside other engineers.
 
 ## Professional experience
 
@@ -68,26 +21,22 @@ AWS · Docker · Git · GitHub Actions · Deployment · Server management
 **Software Engineer | Web, Mobile & Cloud**  
 <sub>November 2021 to Present</sub>
 
-Contributed to company and client applications across the software development lifecycle, collaborating with backend developers and other engineers on implementation and delivery.
+Contributed to company and client applications from requirements and technical design through implementation, testing, and delivery.
 
-**Core responsibilities**
-
-- Developed web and mobile features and integrated application interfaces with backend services.
-- Contributed to backend functionality, business logic, SQL/MySQL databases, and data integrations.
-- Made application architecture contributions and supported technical decisions across project workflows.
-- Supported cloud infrastructure, deployments, server management, application migrations, and troubleshooting.
-- Set up engineering tools and messaging infrastructure, including RabbitMQ and EMQX, and collaborated on testing and releases.
+- **Application engineering:** web and mobile features, backend functionality, API integration, and SQL/MySQL business logic.
+- **Architecture & delivery:** application design decisions, cloud infrastructure, deployments, server management, and migrations.
+- **Engineering collaboration:** worked with other developers on integrations, messaging tools, troubleshooting, testing, and releases.
 
 #### Selected projects at Data Function
 
-The projects below were delivered within engineering teams. Each entry describes my contribution to the company or client application.
+My contributions within each project team:
 
 ---
 
 #### [NeuraCap](https://neuracap.ai)
 <sub>FINANCIAL RESEARCH & ANALYTICS</sub>
 
-**Contribution: Web application development, application architecture & cloud delivery**
+**Web development · Application architecture · Cloud delivery**
 
 - Developed interfaces enabling users to explore company valuations, peer comparisons, M&A research, and financial reports in a unified workflow.
 - Integrated APIs and AI assistant interfaces, working with the engineers responsible for backend services.
@@ -100,7 +49,7 @@ The projects below were delivered within engineering teams. Each entry describes
 #### [Force-V](https://datafunction.ca/work/force-v)
 <sub>RENEWABLE ENERGY MONITORING · WEB & MOBILE</sub>
 
-**Contribution: Web and mobile development & device-data integration**
+**Web & mobile development · Data integration**
 
 - Developed interfaces for monitoring solar plant performance, energy production, and equipment status.
 - Contributed to the React web application and React Native/Expo mobile application, both using JavaScript.
@@ -113,7 +62,7 @@ The projects below were delivered within engineering teams. Each entry describes
 #### [StoneCloud | Marble Industry Software](https://stonecloud.jinnahtech.com)
 <sub>BUSINESS OPERATIONS & INVENTORY</sub>
 
-**Contribution: Application interfaces, inventory business logic & database functionality**
+**Application development · Inventory logic · Databases**
 
 - Built the initial React frontend for the marble industry application.
 - Supported inventory tracking through contributions to business logic, MySQL database functionality, and operational interfaces.
@@ -126,7 +75,7 @@ The projects below were delivered within engineering teams. Each entry describes
 #### [Case Polaris](https://casepolaris.com)
 <sub>LEGAL RESEARCH · WEB & MOBILE</sub>
 
-**Contribution: Web and mobile application development & API integration**
+**Web & mobile development · API integration**
 
 - Contributed to Next.js web and React Native/Expo mobile interfaces using TypeScript.
 - Developed interfaces supporting conversational legal research, document analysis, and research-session management.
@@ -146,7 +95,44 @@ Contributed to Django/REST API functionality, Python tooling, customer-facing we
 
 </details>
 
-<br />
+## Technical skills
+
+#### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" title="Python" width="36" height="36" />
+</p>
+JavaScript · TypeScript · Python · SQL
+
+#### Frontend & mobile
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" title="React" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="Next.js" title="Next.js" width="36" height="36" />
+
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-20232a?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" />
+</p>
+React · Next.js · React Native · Expo
+
+#### Backend, databases & messaging
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django" title="Django" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RabbitMQ-Dark.svg" alt="RabbitMQ" title="RabbitMQ" width="36" height="36" />
+</p>
+Django · REST APIs · SQL/MySQL · RabbitMQ · EMQX
+
+#### Cloud & engineering tools
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" title="AWS" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" title="Docker" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" alt="GitHub Actions" title="GitHub Actions" width="36" height="36" />
+</p>
+AWS · Docker · Git · GitHub Actions · Deployment · Server management
+
 
 ## Education & academic work
 
@@ -163,15 +149,12 @@ Contributed to an academic team project combining Java/Spring Boot APIs, a React
 
 <sub>Academic technologies: Java · Spring Boot · React · Python · Flask</sub>
 
-<br />
-
 ## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/mjunaidjt?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=mjunaidjt&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=171c1b&amp;title_color=d5ed47&amp;icon_color=d5ed47&amp;text_color=f5f7ed&amp;disable_animations=true" alt="Muhammad Junaid Tariq's public GitHub activity statistics" width="480" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/mjunaidjt?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mjunaidjt&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=171c1b&amp;title_color=d5ed47&amp;text_color=f5f7ed&amp;disable_animations=true" alt="Languages represented in public GitHub repositories" width="400" /></a>
+  <a href="https://github.com/mjunaidjt?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=mjunaidjt&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=171c1b&amp;title_color=d5ed47&amp;icon_color=d5ed47&amp;text_color=f5f7ed&amp;disable_animations=true" alt="Muhammad Junaid Tariq's public GitHub activity statistics" width="400" /></a>
+  
+  <a href="https://github.com/mjunaidjt?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mjunaidjt&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=171c1b&amp;title_color=d5ed47&amp;text_color=f5f7ed&amp;disable_animations=true" alt="Languages represented in public GitHub repositories" width="340" /></a>
 </p>
 
 <sub>These cards reflect public GitHub repositories and activity. Language distribution reflects repository code, not proficiency; private company and client work is not fully represented.</sub>
