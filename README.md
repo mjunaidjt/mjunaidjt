@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="./profile-banner.svg" width="100%" alt="Muhammad Junaid Tariq, Software Engineer. Web, Mobile, Backend and Cloud. Founder and CEO at Byte Craftre." />
+  <img src="./profile-banner.svg" width="100%" alt="Muhammad Junaid Tariq, Software Engineer. Web, Mobile, Backend and Cloud." />
 </p>
 
 <p align="center">
-  <a href="https://bytecraftre.com"><img src="https://img.shields.io/badge/Byte_Craftre-Website-d5ed47?style=for-the-badge&amp;labelColor=242c25&amp;color=d5ed47" alt="Byte Craftre website" /></a>
   <a href="https://www.linkedin.com/in/immjunaidtariq/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d5ed47?style=for-the-badge&amp;labelColor=242c25&amp;color=d5ed47" alt="Connect on LinkedIn" /></a>
   <a href="mailto:mjunaidt.engr@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-d5ed47?style=for-the-badge&amp;labelColor=242c25&amp;color=d5ed47" alt="Email Muhammad Junaid Tariq" /></a>
 </p>
@@ -15,7 +14,7 @@ Web and mobile experiences, backend systems, databases, and application delivery
 
 ## About
 
-I'm a software engineer and Founder & CEO at **[Byte Craftre](https://github.com/bytecraftre)**, our software engineering and product studio. My work spans application architecture, frontend and backend development, API integration, cloud infrastructure, and deployments.
+I'm a software engineer working across web, mobile, and backend systems. My work spans application architecture, frontend and backend development, API integration, cloud infrastructure, and deployments.
 
 I have contributed to financial research, industrial monitoring, business operations, and legal research applications, working alongside engineering teams to turn requirements into usable software.
 
@@ -87,8 +86,6 @@ My university IoT diagnostic-system project combined Java/Spring Boot APIs, a Re
 ---
 
 <p align="center"><b>Let's build useful software.</b><br />
-<a href="https://bytecraftre.com">Byte Craftre</a> &nbsp; / &nbsp;
-<a href="https://github.com/bytecraftre">Studio on GitHub</a> &nbsp; / &nbsp;
 <a href="https://www.linkedin.com/in/immjunaidtariq/">LinkedIn</a></p>
 
 <p align="center"><sub>Based in Pakistan · Web, mobile, backend and cloud</sub></p>
