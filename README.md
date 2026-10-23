@@ -13,7 +13,7 @@
 
 **Software Engineer | Web, Mobile & Backend Systems**
 
-I build web and mobile applications and contribute to backend services, database logic, application architecture, and cloud delivery. At Data Function Inc., I have worked on financial research, renewable energy monitoring, legal technology, and business operations software alongside other engineers.
+I build web and mobile applications and contribute to backend services, database logic, application architecture, and DevOps. At Data Function Inc., I have worked on financial research, renewable energy monitoring, legal technology, and business operations software alongside other engineers.
 
 ## Professional experience
 
@@ -26,86 +26,94 @@ Contributed to company and client applications from requirements and technical d
 **Responsibilities**
 
 - **Application engineering:** web and mobile features, backend functionality, API integration, and SQL/MySQL business logic.
-- **Architecture & delivery:** application design decisions, cloud infrastructure, deployments, server management, and migrations.
+- **Architecture & DevOps:** application design decisions, AWS and VPS management, deployments, and migrations.
 - **Engineering collaboration:** worked with other developers on integrations, messaging tools, troubleshooting, testing, and releases.
 
-#### Selected projects at Data Function
+### Selected projects at Data Function
 
 Selected company and client applications, with my individual contribution within each engineering team.
 
-### [NeuraCap](https://neuracap.ai)
+#### [NeuraCap](https://neuracap.ai)
 **Financial research & analytics platform**
 
 Helps users explore company valuations, peer comparisons, M&A research, and financial reports.
 
-**My role:** Web application engineering, application architecture, and cloud delivery.
+[Visit application website](https://neuracap.ai)
+
+**Responsibilities**
 
 - Developed research and reporting interfaces and integrated APIs and AI assistant functionality into the application experience.
 - Led key application architecture decisions and supported cloud infrastructure and deployments alongside the engineering team.
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" height="28" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="28" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" height="28" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" height="22" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="22" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="22" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" height="22" />
 </p>
 
 ---
 
-### [Force-V](https://datafunction.ca/work/force-v)
+#### Force-V
 **Solar energy monitoring | Web & mobile**
 
 Enables users to monitor solar plant performance, energy production, and equipment status.
 
-**My role:** Web and mobile application development, database functionality, and device-data integration.
+[Android app](https://play.google.com/store/apps/details?id=com.forcev.datafunction) · [iOS app](https://apps.apple.com/lr/app/forcev/id6749439650)
+
+**Responsibilities**
 
 - Developed monitoring and reporting interfaces for the React web application and React Native/Expo mobile application, both using JavaScript.
 - Implemented device-data ingestion and contributed to SQL functionality, EMQX integration, testing, and application delivery.
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="28" />
-  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React Native" height="28" />
-  <img src="https://img.shields.io/badge/Expo-20232a?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" height="28" />
-  <img src="https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript" height="28" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL" height="28" />
-  <img src="https://img.shields.io/badge/EMQX-20232a?style=for-the-badge&amp;logo=emqx&amp;logoColor=00b173" alt="EMQX" height="28" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="22" />
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React Native" height="22" />
+  <img src="https://img.shields.io/badge/Expo-20232a?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" height="22" />
+  <img src="https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript" height="22" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL" height="22" />
+  <img src="https://img.shields.io/badge/EMQX-20232a?style=for-the-badge&amp;logo=emqx&amp;logoColor=00b173" alt="EMQX" height="22" />
 </p>
 
 ---
 
-### [StoneCloud](https://stonecloud.jinnahtech.com)
+#### [StoneCloud](https://stonecloud.jinnahtech.com)
 **Marble industry software**
 
 Supports business operations and inventory tracking for the marble industry.
 
-**My role:** Application development, inventory business logic, and database functionality.
+[Visit application](https://stonecloud.jinnahtech.com)
+
+**Responsibilities**
 
 - Built the initial React frontend and contributed to operational interfaces and backend integration.
 - Contributed inventory business logic and MySQL database functionality, with support for deployments and ongoing application maintenance.
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="28" />
-  <img src="https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript" height="28" />
-  <img src="https://img.shields.io/badge/MySQL-20232a?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479a1" alt="MySQL" height="28" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="22" />
+  <img src="https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript" height="22" />
+  <img src="https://img.shields.io/badge/MySQL-20232a?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479a1" alt="MySQL" height="22" />
 </p>
 
 ---
 
-### [Case Polaris](https://casepolaris.com)
+#### [Case Polaris](https://casepolaris.com)
 **Legal research platform | Web & mobile**
 
 Supports conversational legal research, document analysis, and research-session management.
 
-**My role:** Web and mobile application development and API integration.
+[Visit application website](https://casepolaris.com)
+
+**Responsibilities**
 
 - Contributed interfaces for the Next.js web application and the separate React Native/Expo mobile application using TypeScript.
 - Integrated application interfaces with APIs and collaborated on delivery. The mobile application remains in development.
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" height="28" />
-  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React Native" height="28" />
-  <img src="https://img.shields.io/badge/Expo-20232a?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" height="28" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" height="22" />
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React Native" height="22" />
+  <img src="https://img.shields.io/badge/Expo-20232a?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" height="22" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="22" />
 </p>
 
 <details>
@@ -124,39 +132,44 @@ Contributed to Django/REST API functionality, Python tooling, customer-facing we
 
 #### Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript" height="28" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28" />
-  <img src="https://img.shields.io/badge/Python-20232a?style=for-the-badge&amp;logo=python&amp;logoColor=3776ab" alt="Python" height="28" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript" height="22" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="22" />
+  <img src="https://img.shields.io/badge/Python-20232a?style=for-the-badge&amp;logo=python&amp;logoColor=3776ab" alt="Python" height="22" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL" height="22" />
 </p>
 
 #### Frontend & mobile
 <p>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="28" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" height="28" />
-  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React Native" height="28" />
-  <img src="https://img.shields.io/badge/Expo-20232a?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" height="28" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="22" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" height="22" />
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React Native" height="22" />
+  <img src="https://img.shields.io/badge/Expo-20232a?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" height="22" />
 </p>
 
 #### Backend, databases & messaging
 <p>
-  <img src="https://img.shields.io/badge/Django-20232a?style=for-the-badge&amp;logo=django&amp;logoColor=44b78b" alt="Django" height="28" />
-  <img src="https://img.shields.io/badge/REST_APIs-20232a?style=for-the-badge" alt="REST APIs" height="28" />
-  <img src="https://img.shields.io/badge/MySQL-20232a?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479a1" alt="MySQL" height="28" />
-  <img src="https://img.shields.io/badge/RabbitMQ-20232a?style=for-the-badge&amp;logo=rabbitmq&amp;logoColor=ff6600" alt="RabbitMQ" height="28" />
-  <img src="https://img.shields.io/badge/EMQX-20232a?style=for-the-badge&amp;logo=emqx&amp;logoColor=00b173" alt="EMQX" height="28" />
+  <img src="https://img.shields.io/badge/Django-20232a?style=for-the-badge&amp;logo=django&amp;logoColor=44b78b" alt="Django" height="22" />
+  <img src="https://img.shields.io/badge/REST_APIs-20232a?style=for-the-badge" alt="REST APIs" height="22" />
+  <img src="https://img.shields.io/badge/MySQL-20232a?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479a1" alt="MySQL" height="22" />
+  <img src="https://img.shields.io/badge/RabbitMQ-20232a?style=for-the-badge&amp;logo=rabbitmq&amp;logoColor=ff6600" alt="RabbitMQ" height="22" />
+  <img src="https://img.shields.io/badge/EMQX-20232a?style=for-the-badge&amp;logo=emqx&amp;logoColor=00b173" alt="EMQX" height="22" />
 </p>
-
-#### Cloud & engineering tools
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" height="28" />
-  <img src="https://img.shields.io/badge/Docker-20232a?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ed" alt="Docker" height="28" />
-  <img src="https://img.shields.io/badge/Git-20232a?style=for-the-badge&amp;logo=git&amp;logoColor=f05032" alt="Git" height="28" />
-  <img src="https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="28" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-20232a?style=for-the-badge&amp;logo=githubactions&amp;logoColor=2088ff" alt="GitHub Actions" height="28" />
+  <img src="https://img.shields.io/badge/Java-20232a?style=for-the-badge&amp;logo=openjdk&amp;logoColor=ed8b00" alt="Java" height="22" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" height="22" />
+</p>
+<sub>Java and Spring Boot: earlier academic and internship experience.</sub>
+
+#### DevOps & deployment
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" height="22" />
+  <img src="https://img.shields.io/badge/Docker-20232a?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ed" alt="Docker" height="22" />
+  <img src="https://img.shields.io/badge/Git-20232a?style=for-the-badge&amp;logo=git&amp;logoColor=f05032" alt="Git" height="22" />
+  <img src="https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="22" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-20232a?style=for-the-badge&amp;logo=githubactions&amp;logoColor=2088ff" alt="GitHub Actions" height="22" />
 </p>
 
-Deployment · Server management · Application migrations
+AWS & VPS management · Deployment · Application migrations
 
 ## Education & academic work
 
@@ -166,11 +179,11 @@ Deployment · Server management · Application migrations
 Contributed to an academic team project combining Java/Spring Boot APIs, a React interface, and Python/Flask device integration. This earlier work developed my foundations in backend services, API integration, and connected systems.
 
 <p>
-  <img src="https://img.shields.io/badge/Java-20232a?style=for-the-badge&amp;logo=openjdk&amp;logoColor=ed8b00" alt="Java" height="28" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" height="28" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="28" />
-  <img src="https://img.shields.io/badge/Python-20232a?style=for-the-badge&amp;logo=python&amp;logoColor=3776ab" alt="Python" height="28" />
-  <img src="https://img.shields.io/badge/Flask-20232a?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" height="28" />
+  <img src="https://img.shields.io/badge/Java-20232a?style=for-the-badge&amp;logo=openjdk&amp;logoColor=ed8b00" alt="Java" height="22" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" height="22" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="22" />
+  <img src="https://img.shields.io/badge/Python-20232a?style=for-the-badge&amp;logo=python&amp;logoColor=3776ab" alt="Python" height="22" />
+  <img src="https://img.shields.io/badge/Flask-20232a?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" height="22" />
 </p>
 
 <sub>Academic technologies: Java · Spring Boot · React · Python · Flask</sub>
@@ -192,7 +205,12 @@ Contributed to an academic team project combining Java/Spring Boot APIs, a React
 
 ---
 
-<p align="center"><b>Connect with me</b><br />
-<a href="https://www.linkedin.com/in/immjunaidtariq/">LinkedIn</a> &nbsp; / &nbsp; <a href="mailto:mjunaidt.engr@gmail.com">Email</a></p>
+<p align="center"><b>Connect with me</b></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/immjunaidtariq/"><img src="https://img.shields.io/badge/LinkedIn-20232a?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="22" /></a>
+  <a href="mailto:mjunaidt.engr@gmail.com"><img src="https://img.shields.io/badge/Email-20232a?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" height="22" /></a>
+  <a href="https://github.com/mjunaidjt"><img src="https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="22" /></a>
+  <a href="https://twitter.com/immjunaidt"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" height="22" /></a>
+</p>
 
-<p align="center"><sub>Based in Pakistan · Software engineering across web, mobile, backend and cloud</sub></p>
+<p align="center"><sub>Based in Pakistan · Web, mobile, backend and DevOps</sub></p>
