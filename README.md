@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/immjunaidtariq/"><img src="https://img.shields.io/badge/LinkedIn-Professional_profile-d5ed47?style=for-the-badge&amp;labelColor=242c25&amp;color=d5ed47" alt="LinkedIn professional profile" /></a>
+  <a href="https://www.linkedin.com/in/immjunaidtariq/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d5ed47?style=for-the-badge&amp;labelColor=242c25&amp;color=d5ed47" alt="LinkedIn professional profile" /></a>
   <a href="mailto:mjunaidt.engr@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-d5ed47?style=for-the-badge&amp;labelColor=242c25&amp;color=d5ed47" alt="Contact Muhammad Junaid Tariq by email" /></a>
 </p>
 
@@ -18,10 +18,12 @@ I build web and mobile applications and contribute to backend services, database
 ## Professional experience
 
 ### Data Function Inc.
-**Software Engineer | Web, Mobile & Cloud**  
+**Software Engineer | Web, Mobile & Backend**  
 <sub>November 2021 to Present</sub>
 
 Contributed to company and client applications from requirements and technical design through implementation, testing, and delivery.
+
+**Responsibilities**
 
 - **Application engineering:** web and mobile features, backend functionality, API integration, and SQL/MySQL business logic.
 - **Architecture & delivery:** application design decisions, cloud infrastructure, deployments, server management, and migrations.
@@ -42,7 +44,7 @@ My contributions within each project team:
 - Integrated APIs and AI assistant interfaces, working with the engineers responsible for backend services.
 - Led key application architecture decisions and supported cloud infrastructure and application deployments.
 
-**Technologies:** `Next.js` `React` `TypeScript` `AWS`
+**Tools & technologies:** `Next.js` `React` `TypeScript` `AWS`
 
 ---
 
@@ -55,7 +57,7 @@ My contributions within each project team:
 - Contributed to the React web application and React Native/Expo mobile application, both using JavaScript.
 - Implemented device-data ingestion to support monitoring and reporting, with contributions to SQL functionality, EMQX integration, testing, and application delivery.
 
-**Technologies:** `React` `React Native` `Expo` `JavaScript` `SQL` `EMQX`
+**Tools & technologies:** `React` `React Native` `Expo` `JavaScript` `SQL` `EMQX`
 
 ---
 
@@ -68,7 +70,7 @@ My contributions within each project team:
 - Supported inventory tracking through contributions to business logic, MySQL database functionality, and operational interfaces.
 - Collaborated on backend integration, deployments, and ongoing application support.
 
-**Technologies:** `React` `JavaScript` `MySQL`
+**Tools & technologies:** `React` `JavaScript` `MySQL`
 
 ---
 
@@ -81,7 +83,7 @@ My contributions within each project team:
 - Developed interfaces supporting conversational legal research, document analysis, and research-session management.
 - Collaborated on API integration and application delivery. Mobile development is ongoing.
 
-**Technologies:** `Next.js` `React Native` `Expo` `TypeScript`
+**Tools & technologies:** `Next.js` `React Native` `Expo` `TypeScript`
 
 <details>
 <summary><b>Additional contributions at Data Function</b></summary>
@@ -99,40 +101,39 @@ Contributed to Django/REST API functionality, Python tooling, customer-facing we
 
 #### Languages
 <p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" title="Python" width="36" height="36" />
+  <img src="https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript" height="28" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28" />
+  <img src="https://img.shields.io/badge/Python-20232a?style=for-the-badge&amp;logo=python&amp;logoColor=3776ab" alt="Python" height="28" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL" height="28" />
 </p>
-JavaScript · TypeScript · Python · SQL
 
 #### Frontend & mobile
 <p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" title="React" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="Next.js" title="Next.js" width="36" height="36" />
-
-  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-20232a?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="28" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" height="28" />
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React Native" height="28" />
+  <img src="https://img.shields.io/badge/Expo-20232a?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" height="28" />
 </p>
-React · Next.js · React Native · Expo
 
 #### Backend, databases & messaging
 <p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django" title="Django" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RabbitMQ-Dark.svg" alt="RabbitMQ" title="RabbitMQ" width="36" height="36" />
+  <img src="https://img.shields.io/badge/Django-20232a?style=for-the-badge&amp;logo=django&amp;logoColor=44b78b" alt="Django" height="28" />
+  <img src="https://img.shields.io/badge/REST_APIs-20232a?style=for-the-badge" alt="REST APIs" height="28" />
+  <img src="https://img.shields.io/badge/MySQL-20232a?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479a1" alt="MySQL" height="28" />
+  <img src="https://img.shields.io/badge/RabbitMQ-20232a?style=for-the-badge&amp;logo=rabbitmq&amp;logoColor=ff6600" alt="RabbitMQ" height="28" />
+  <img src="https://img.shields.io/badge/EMQX-20232a?style=for-the-badge&amp;logo=emqx&amp;logoColor=00b173" alt="EMQX" height="28" />
 </p>
-Django · REST APIs · SQL/MySQL · RabbitMQ · EMQX
 
 #### Cloud & engineering tools
 <p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" title="AWS" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" title="Docker" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" alt="GitHub Actions" title="GitHub Actions" width="36" height="36" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" height="28" />
+  <img src="https://img.shields.io/badge/Docker-20232a?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ed" alt="Docker" height="28" />
+  <img src="https://img.shields.io/badge/Git-20232a?style=for-the-badge&amp;logo=git&amp;logoColor=f05032" alt="Git" height="28" />
+  <img src="https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="28" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-20232a?style=for-the-badge&amp;logo=githubactions&amp;logoColor=2088ff" alt="GitHub Actions" height="28" />
 </p>
-AWS · Docker · Git · GitHub Actions · Deployment · Server management
 
+Deployment · Server management · Application migrations
 
 ## Education & academic work
 
@@ -141,22 +142,28 @@ AWS · Docker · Git · GitHub Actions · Deployment · Server management
 **IoT-Based Smart Diagnosis System | Final Year Project**  
 Contributed to an academic team project combining Java/Spring Boot APIs, a React interface, and Python/Flask device integration. This earlier work developed my foundations in backend services, API integration, and connected systems.
 
-<p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" title="Java" width="38" height="38" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring Boot" title="Spring Boot" width="38" height="38" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" title="React" width="38" height="38" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" title="Python" width="38" height="38" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" title="Flask" width="38" height="38" /></p>
+<p>
+  <img src="https://img.shields.io/badge/Java-20232a?style=for-the-badge&amp;logo=openjdk&amp;logoColor=ed8b00" alt="Java" height="28" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" height="28" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="28" />
+  <img src="https://img.shields.io/badge/Python-20232a?style=for-the-badge&amp;logo=python&amp;logoColor=3776ab" alt="Python" height="28" />
+  <img src="https://img.shields.io/badge/Flask-20232a?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" height="28" />
+</p>
 
 <sub>Academic technologies: Java · Spring Boot · React · Python · Flask</sub>
 
 ## GitHub activity
 
 <p align="center">
+  <a href="https://github.com/mjunaidjt"><img src="https://streak-stats.demolab.com/?user=mjunaidjt&amp;theme=github-dark&amp;hide_border=true&amp;background=171c1b&amp;ring=d5ed47&amp;fire=d5ed47&amp;currStreakLabel=d5ed47&amp;sideLabels=f5f7ed&amp;sideNums=f5f7ed&amp;currStreakNum=f5f7ed&amp;dates=b5c0b2&amp;stroke=36422d&amp;timezone=Asia%2FKarachi&amp;disable_animations=true" alt="GitHub contribution streak: total contributions, current streak and longest streak" width="495" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/mjunaidjt?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=mjunaidjt&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=171c1b&amp;title_color=d5ed47&amp;icon_color=d5ed47&amp;text_color=f5f7ed&amp;disable_animations=true" alt="Muhammad Junaid Tariq's public GitHub activity statistics" width="400" /></a>
   <a href="https://github.com/mjunaidjt?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mjunaidjt&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=171c1b&amp;title_color=d5ed47&amp;text_color=f5f7ed&amp;disable_animations=true" alt="Languages represented in public GitHub repositories" width="340" /></a>
 </p>
 
-<sub>These cards reflect public GitHub repositories and activity. Language distribution reflects repository code, not proficiency; private company and client work is not fully represented.</sub>
+<sub>Streaks reflect the public contribution graph; repository statistics and language distribution cover public repositories. Language percentages describe code distribution, not proficiency. Private work is not fully represented.</sub>
 
 <br />
 
