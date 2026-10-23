@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" width="100%" alt="Muhammad Junaid Tariq, Software Engineer. Web, Mobile, Backend and Cloud." />
+  <img src="./profile-banner.svg?v=2" width="100%" alt="Muhammad Junaid Tariq, Software Engineer. Web, Mobile, Backend and Cloud." />
 </p>
 
 <p align="center">
