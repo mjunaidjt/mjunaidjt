@@ -31,59 +31,82 @@ Contributed to company and client applications from requirements and technical d
 
 #### Selected projects at Data Function
 
-My contributions within each project team:
+Selected company and client applications, with my individual contribution within each engineering team.
+
+### [NeuraCap](https://neuracap.ai)
+**Financial research & analytics platform**
+
+Helps users explore company valuations, peer comparisons, M&A research, and financial reports.
+
+**My role:** Web application engineering, application architecture, and cloud delivery.
+
+- Developed research and reporting interfaces and integrated APIs and AI assistant functionality into the application experience.
+- Led key application architecture decisions and supported cloud infrastructure and deployments alongside the engineering team.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" height="28" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="28" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" height="28" />
+</p>
 
 ---
 
-#### [NeuraCap](https://neuracap.ai)
-<sub>FINANCIAL RESEARCH & ANALYTICS</sub>
+### [Force-V](https://datafunction.ca/work/force-v)
+**Solar energy monitoring | Web & mobile**
 
-**Web development · Application architecture · Cloud delivery**
+Enables users to monitor solar plant performance, energy production, and equipment status.
 
-- Developed interfaces enabling users to explore company valuations, peer comparisons, M&A research, and financial reports in a unified workflow.
-- Integrated APIs and AI assistant interfaces, working with the engineers responsible for backend services.
-- Led key application architecture decisions and supported cloud infrastructure and application deployments.
+**My role:** Web and mobile application development, database functionality, and device-data integration.
 
-**Tools & technologies:** `Next.js` `React` `TypeScript` `AWS`
+- Developed monitoring and reporting interfaces for the React web application and React Native/Expo mobile application, both using JavaScript.
+- Implemented device-data ingestion and contributed to SQL functionality, EMQX integration, testing, and application delivery.
 
----
-
-#### [Force-V](https://datafunction.ca/work/force-v)
-<sub>RENEWABLE ENERGY MONITORING · WEB & MOBILE</sub>
-
-**Web & mobile development · Data integration**
-
-- Developed interfaces for monitoring solar plant performance, energy production, and equipment status.
-- Contributed to the React web application and React Native/Expo mobile application, both using JavaScript.
-- Implemented device-data ingestion to support monitoring and reporting, with contributions to SQL functionality, EMQX integration, testing, and application delivery.
-
-**Tools & technologies:** `React` `React Native` `Expo` `JavaScript` `SQL` `EMQX`
+<p>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="28" />
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React Native" height="28" />
+  <img src="https://img.shields.io/badge/Expo-20232a?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript" height="28" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL" height="28" />
+  <img src="https://img.shields.io/badge/EMQX-20232a?style=for-the-badge&amp;logo=emqx&amp;logoColor=00b173" alt="EMQX" height="28" />
+</p>
 
 ---
 
-#### [StoneCloud | Marble Industry Software](https://stonecloud.jinnahtech.com)
-<sub>BUSINESS OPERATIONS & INVENTORY</sub>
+### [StoneCloud](https://stonecloud.jinnahtech.com)
+**Marble industry software**
 
-**Application development · Inventory logic · Databases**
+Supports business operations and inventory tracking for the marble industry.
 
-- Built the initial React frontend for the marble industry application.
-- Supported inventory tracking through contributions to business logic, MySQL database functionality, and operational interfaces.
-- Collaborated on backend integration, deployments, and ongoing application support.
+**My role:** Application development, inventory business logic, and database functionality.
 
-**Tools & technologies:** `React` `JavaScript` `MySQL`
+- Built the initial React frontend and contributed to operational interfaces and backend integration.
+- Contributed inventory business logic and MySQL database functionality, with support for deployments and ongoing application maintenance.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript" height="28" />
+  <img src="https://img.shields.io/badge/MySQL-20232a?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479a1" alt="MySQL" height="28" />
+</p>
 
 ---
 
-#### [Case Polaris](https://casepolaris.com)
-<sub>LEGAL RESEARCH · WEB & MOBILE</sub>
+### [Case Polaris](https://casepolaris.com)
+**Legal research platform | Web & mobile**
 
-**Web & mobile development · API integration**
+Supports conversational legal research, document analysis, and research-session management.
 
-- Contributed to Next.js web and React Native/Expo mobile interfaces using TypeScript.
-- Developed interfaces supporting conversational legal research, document analysis, and research-session management.
-- Collaborated on API integration and application delivery. Mobile development is ongoing.
+**My role:** Web and mobile application development and API integration.
 
-**Tools & technologies:** `Next.js` `React Native` `Expo` `TypeScript`
+- Contributed interfaces for the Next.js web application and the separate React Native/Expo mobile application using TypeScript.
+- Integrated application interfaces with APIs and collaborated on delivery. The mobile application remains in development.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" height="28" />
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" alt="React Native" height="28" />
+  <img src="https://img.shields.io/badge/Expo-20232a?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" height="28" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28" />
+</p>
 
 <details>
 <summary><b>Additional contributions at Data Function</b></summary>
