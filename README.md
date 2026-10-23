@@ -153,7 +153,6 @@ Contributed to an academic team project combining Java/Spring Boot APIs, a React
 
 <p align="center">
   <a href="https://github.com/mjunaidjt?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=mjunaidjt&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=171c1b&amp;title_color=d5ed47&amp;icon_color=d5ed47&amp;text_color=f5f7ed&amp;disable_animations=true" alt="Muhammad Junaid Tariq's public GitHub activity statistics" width="400" /></a>
-  
   <a href="https://github.com/mjunaidjt?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mjunaidjt&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=171c1b&amp;title_color=d5ed47&amp;text_color=f5f7ed&amp;disable_animations=true" alt="Languages represented in public GitHub repositories" width="340" /></a>
 </p>
 
