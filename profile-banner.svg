@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Junaid Tariq | Software Engineer</title>
+  <desc id="desc">Web, mobile, backend and cloud. Founder and CEO at Byte Craftre.</desc>
+  <rect width="1200" height="340" rx="18" fill="#171c1b"/>
+  <path d="M850 0v340M950 0v340M1050 0v340M1150 0v340M800 70h400M800 170h400M800 270h400" stroke="#313b35" stroke-width="1"/>
+  <rect x="52" y="52" width="40" height="5" rx="2" fill="#d5ed47"/>
+  <text x="52" y="91" fill="#d5ed47" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">SOFTWARE ENGINEER</text>
+  <text x="49" y="154" fill="#f5f7ed" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="-1.2">Muhammad Junaid Tariq</text>
+  <text x="52" y="199" fill="#c2cabe" font-family="Arial, Helvetica, sans-serif" font-size="22">Web. Mobile. Backend. Cloud.</text>
+  <path d="M52 235h650" stroke="#3c463b"/>
+  <text x="52" y="277" fill="#f5f7ed" font-family="Arial, Helvetica, sans-serif" font-size="18">Founder &amp; CEO</text>
+  <text x="204" y="277" fill="#d5ed47" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Byte Craftre</text>
+  <g transform="translate(875 96)">
+    <rect x="0" y="0" width="96" height="96" rx="14" fill="#d5ed47"/>
+    <rect x="108" y="0" width="96" height="96" rx="14" fill="#28332b" stroke="#5d7052"/>
+    <rect x="0" y="108" width="96" height="96" rx="14" fill="#28332b" stroke="#5d7052"/>
+    <rect x="108" y="108" width="96" height="96" rx="14" fill="#36422d"/>
+    <path d="m37 34-14 14 14 14m22-28 14 14-14 14" stroke="#171c1b" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="140" y="24" width="32" height="49" rx="5" stroke="#d5ed47" stroke-width="4" fill="none"/>
+    <path d="M26 139h44m-44 14h44m-44 14h44" stroke="#d5ed47" stroke-width="4" stroke-linecap="round"/>
+    <path d="M133 167h48a11 11 0 0 0 0-22 21 21 0 0 0-40-6 14 14 0 0 0-8 28Z" stroke="#d5ed47" stroke-width="4" fill="none" stroke-linejoin="round"/>
+  </g>
+</svg>
