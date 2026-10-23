@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/immjunaidtariq/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d5ed47?style=for-the-badge&amp;labelColor=242c25&amp;color=d5ed47" alt="LinkedIn professional profile" /></a>
+  <a href="https://www.upwork.com/freelancers/~016ea918aeb03a00f7"><img src="https://img.shields.io/badge/Upwork-View_profile-14a800?style=for-the-badge&amp;logo=upwork&amp;logoColor=white&amp;labelColor=20232a" alt="View my Upwork profile" height="22" /></a>
   <a href="mailto:mjunaidt.engr@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-d5ed47?style=for-the-badge&amp;labelColor=242c25&amp;color=d5ed47" alt="Contact Muhammad Junaid Tariq by email" /></a>
 </p>
 
@@ -207,6 +208,7 @@ Contributed to an academic team project combining Java/Spring Boot APIs, a React
 
 <p align="center"><b>Connect with me</b></p>
 <p align="center">
+  <a href="https://www.upwork.com/freelancers/~016ea918aeb03a00f7"><img src="https://img.shields.io/badge/Upwork-20232a?style=for-the-badge&amp;logo=upwork&amp;logoColor=14a800" alt="Upwork" height="22" /></a>
   <a href="https://www.linkedin.com/in/immjunaidtariq/"><img src="https://img.shields.io/badge/LinkedIn-20232a?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="22" /></a>
   <a href="mailto:mjunaidt.engr@gmail.com"><img src="https://img.shields.io/badge/Email-20232a?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" height="22" /></a>
   <a href="https://github.com/mjunaidjt"><img src="https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="22" /></a>
@@ -214,3 +216,4 @@ Contributed to an academic team project combining Java/Spring Boot APIs, a React
 </p>
 
 <p align="center"><sub>Based in Pakistan · Web, mobile, backend and DevOps</sub></p>
+
